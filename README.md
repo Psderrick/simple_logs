@@ -1,3 +1,3 @@
 # simple_logs
-team3 africa github
+team-3 africa github
 The best team
